@@ -4,18 +4,22 @@ h1, h2 {
     font-style: italic;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: url(https://www.moma.org/d/assets/W1siZiIsIjIwMjAvMTEvMjMvMXFuZWt5emVoYV9TY3JlZW5fU2hvdF8yMDIwXzExXzIzX2F0XzExLjAzLjMyX0FNXzEucG5nIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/Screen%20Shot%202020-11-23%20at%2011.03.32%20AM%201.png?sha=266ad1b3c92337a3);
-    color: gold;
-    border-radius: 4px;}
+    color: white;
+    border-radius: 4px;
+    margin: 10px;
+}
 #foto {
     float: right;
-    background-color: rgb(59, 62, 223);
-    padding: 30px black;
-
+    background-color: white;
+    padding: 6px;
+    border-radius: 16px;
+    margin:0px;
 }
 body {
-background-image: url(https://images.unsplash.com/photo-1518818419601-72c8673f5852?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80);                }
-.nome {
-    color:gold;
+background-color: rgb(219, 221, 255); 
+ }
+#nome {
+    color:black;
     font-style: italic;
     text-align: center;
     font-weight: 300;
@@ -23,11 +27,8 @@ background-image: url(https://images.unsplash.com/photo-1518818419601-72c8673f58
 }
 #habilidades {
     font-size: larger;
-    color: gold;
+    color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-#descricao {
-    color: rgb(189, 176, 0);
 }
 .tamanholista1 {
     font-size: smaller;
@@ -46,11 +47,12 @@ background-image: url(https://images.unsplash.com/photo-1518818419601-72c8673f58
 }
 ol {
     text-align: center;
-    color: rgb(223, 182, 0);
-    background-color: rgb(8, 9, 70);
+    color: black;
+    background-color: #bac1fa;
     border-radius: 16px;
+    margin-top: 0px;
 }
 ul, #descricao {
-    color:white;
+    color:black;
                 border-radius: 16px;
 }

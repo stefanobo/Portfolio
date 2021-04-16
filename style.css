@@ -9,22 +9,22 @@ h1, h2 {
 #foto {
     float: right;
     background-color: rgb(59, 62, 223);
+    padding: 30px black;
 
 }
 body {
 background-image: url(https://images.unsplash.com/photo-1518818419601-72c8673f5852?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80);                }
-#nome {
+.nome {
     color:gold;
     font-style: italic;
+    text-align: center;
     font-weight: 300;
     font-family: fantasy, sans-serif;
-                border-radius: 16px;
 }
 #habilidades {
     font-size: larger;
     color: gold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
 }
 #descricao {
     color: rgb(189, 176, 0);
